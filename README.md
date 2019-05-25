@@ -1,4 +1,4 @@
-# openobjecttracket
+# OpenObjectTracker
 A sensor for civic minded data collection. Created in partnership with City of Toronto **Data Analytics and Visualization Team** and **ChalmersCards**
 
 ## Getting Started
